@@ -120,8 +120,9 @@ lab (boolean, optional) - if the class requires computers in a room; if not spec
 ## Steps to implement application
 1. Execute gui.py file
 2. In the File dropdown, click on Open button to import .cfg file (example is described above)
-3. After click on Start Solving 
-4. After waiting sometimes timetable will appear in your desktop.
+3. After, click on Start Solving 
+4. After waiting for few seconds timetable will appear in your desktop.
 
 ## Example of implemented Timetable.
 
+![GroupND1A](https://github.com/damidfkm/ATGS/assets/134654566/fe2f7117-0616-4369-b743-dc0729bf405f)
